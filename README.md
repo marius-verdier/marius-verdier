@@ -21,6 +21,7 @@ I present here some projects I worked on or I am working on, alone or with a tea
   - Highlighting of the chaotic behaviour of the solutions
 
 2. Predicting Stocks Behavior with an Agent Based Model (ABM) Model [05/2023]
+
 *Team: [@marius-verdier](https://github.com/marius-verdier), [@edward-lucyszyn](https://github.com/edward-lucyszyn), Pierre Tesio, Mohamed Azahriou, Paul Bastin*
   - Computed the best coefficients to make the model fit real-world stock changes over the past 10 years.
   - Analyzed investment strategies employed over the past five decades.
