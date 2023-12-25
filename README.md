@@ -15,12 +15,12 @@ I'm well-versed in:
 
 I present here some projects I worked on or I am working on, alone or with a team:
 
-1. N-Bodies simulation: Simulating n-bodies with both a naive and optimized method [03/2023]
+1. [N-Bodies simulation: Simulating n-bodies with both a naive and optimized method](https://github.com/marius-verdier/simulation-n-corps) [03/2023]
   - Implemented brute-force solution
   - Implemented Barnes-Hut method in order to optimize code efficiency
   - Highlighting of the chaotic behaviour of the solutions
 
-2. Predicting Stocks Behavior with an Agent Based Model (ABM) Model [05/2023]
+2. [Predicting Stocks Behavior with an Agent Based Model (ABM)](https://github.com/marius-verdier/agent-based-model-calibration) [05/2023]
 
 *Team: [@marius-verdier](https://github.com/marius-verdier), [@edward-lucyszyn](https://github.com/edward-lucyszyn), Pierre Tesio, Mohamed Azahriou, Paul Bastin*
   - Computed the best coefficients to make the model fit real-world stock changes over the past 10 years.
