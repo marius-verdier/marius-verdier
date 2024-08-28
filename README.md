@@ -8,7 +8,7 @@ I'm well-versed in:
 
 - Programming Languages: C, C++, Rust ;
 - Web Development: HTML, CSS, PHP, JavaScript ;
-- Mobile Development: React Native, Flutter ;
+- Mobile Development: React Native, Flutter, Swift, Java ;
 - Database Management: MySQL, PostgreSQL.
 
 ## 🚀 Projects
