@@ -28,6 +28,10 @@ I present here some projects I worked on or I am working on, alone or with a tea
   - Tested our model with recent data, achieving an accuracy rate of 60%.
   - Predicting Stocks Behavior: Agent Based Model Calibration
 
+3. [Denoiser model implementation in Swift](https://github.com/marius-verdier/swift_denoiser) [07/2024]
+  - Naive implementation in Swift
+  - Modifications to allow real-time use
+
 💬 Let's Connect
 
 Connect with me on:
